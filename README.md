@@ -1,2 +1,2 @@
 # Digital Assigment Theory of Computtaion
-## DFA
+## DFA for Divisibility by binary number
